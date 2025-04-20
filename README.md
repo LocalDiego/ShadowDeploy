@@ -7,8 +7,11 @@ How to use?
 download the github repository
 or just type this into your command terminal:
 ```git clone https://github.com/LK-GONNA11/ShadowDeploy.git```
+
 ```cd ShadowDeploy```
+
 '''pip install -r requirements.txt```
+
 ```python ShadowDeploy.py```
 
 Thank you for using our tool.
