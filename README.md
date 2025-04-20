@@ -6,8 +6,9 @@ ShadowDeploy is the ultimate tool for those who seek to control Discord bots wit
 How to use?
 download the github repository
 or just type this into your command terminal:
-```bash git clone https://github.com/LK-GONNA11/ShadowDeploy.git```
-```bash cd ShadowDeploy```
-```bash python ShadowDeploy.py```
+```git clone https://github.com/LK-GONNA11/ShadowDeploy.git```
+```cd ShadowDeploy```
+'''pip install -r requirements.txt```
+```python ShadowDeploy.py```
 
 Thank you for using our tool.
